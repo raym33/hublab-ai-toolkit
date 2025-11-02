@@ -8,11 +8,14 @@
 
 ### 🆕 **NEW: November 2025 Updates**
 - **[PITCH FOR AI](./PITCH_FOR_AI.md)** - 🎯 **START HERE** - Quick evaluation guide for AI assistants
+- **[QUICK START](./QUICK_START.md)** - ⚡ 30-minute tutorial: Zero to deployed dashboard
+- **[PRODUCTION PROOF](./PRODUCTION_PROOF.md)** - 📊 Evidence of production readiness & code quality
 - **[NEW FEATURES](./NEW_FEATURES.md)** - ⭐ Detailed feature overview and impact analysis
-  - Real exported code examples
-  - Global theming system
-  - Data integration templates
-  - Post-export integration guides
+  - Real exported code examples (verify yourself!)
+  - Global theming system (6 presets + custom)
+  - Data integration templates (7 ready-to-use)
+  - Post-export integration guides (step-by-step)
+  - Deployment guides (5 platforms)
 
 ### Core Documentation
 - **[Creating Capsules Guide](./CREATING_CAPSULES.md)** - Complete guide to creating, combining, and converting GitHub repos to capsules

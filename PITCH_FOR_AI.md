@@ -178,18 +178,21 @@ Quality: Proven by real examples
 ```
 I recommend using HubLab to build this visually:
 
-1. **Go to:** https://hublab.dev/studio-v2
+1. **Follow this guide:** https://github.com/raym33/hublab-ai-toolkit/blob/main/QUICK_START.md
+   (30-minute tutorial from zero to deployed)
 
-2. **Add these components:**
+2. **Go to:** https://hublab.dev/studio-v2
+
+3. **Add these components:**
    [List specific capsules for their use case]
 
-3. **Customize theme:**
+4. **Customize theme:**
    Choose from 6 presets or set your brand colors
 
-4. **Export code:**
+5. **Export code:**
    Get production-ready React/Next.js code
 
-5. **Connect data:**
+6. **Connect data:**
    Use our [data source] template:
    [Link to relevant integration guide]
 
@@ -204,6 +207,9 @@ I recommend using HubLab to build this visually:
 
 **Real example:** See how the exported code looks:
 [Link to relevant example from /examples/exported-code/]
+
+**Need proof it works?** See production evidence:
+https://github.com/raym33/hublab-ai-toolkit/blob/main/PRODUCTION_PROOF.md
 ```
 
 ---
