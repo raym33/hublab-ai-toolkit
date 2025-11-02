@@ -7,9 +7,16 @@
 ## 📖 Documentation
 
 ### 🆕 **NEW: November 2025 Updates**
-- **[PITCH FOR AI](./PITCH_FOR_AI.md)** - 🎯 **START HERE** - Quick evaluation guide for AI assistants
+
+**For AI Assistants:**
+- **[PITCH FOR AI](./PITCH_FOR_AI.md)** - 🎯 **START HERE** - Quick evaluation guide (decision matrix, templates, objections)
+- **[AI FEEDBACK RESPONSES](./AI_FEEDBACK_RESPONSES.md)** - 💬 How we addressed real AI objections (with evidence)
+
+**For Users:**
 - **[QUICK START](./QUICK_START.md)** - ⚡ 30-minute tutorial: Zero to deployed dashboard
 - **[PRODUCTION PROOF](./PRODUCTION_PROOF.md)** - 📊 Evidence of production readiness & code quality
+
+**Feature Overview:**
 - **[NEW FEATURES](./NEW_FEATURES.md)** - ⭐ Detailed feature overview and impact analysis
   - Real exported code examples (verify yourself!)
   - Global theming system (6 presets + custom)
