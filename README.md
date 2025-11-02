@@ -4,6 +4,14 @@
 
 **Live Platform:** [https://hublab.dev](https://hublab.dev)
 
+## 📖 Documentation
+
+- **[Creating Capsules Guide](./CREATING_CAPSULES.md)** - Complete guide to creating, combining, and converting GitHub repos to capsules
+- **[Technical Architecture](./TECHNICAL_ARCHITECTURE.md)** - Full system architecture, APIs, database schema, and deployment
+- **[Practical Examples](./EXAMPLES.md)** - 10 real-world examples with detailed instructions
+- **[Capsules Catalog (JSON)](./CAPSULES_CATALOG.json)** - Machine-readable catalog of all 180+ capsules
+- **[Source Code Examples](./source-code-examples/)** - Real capsule source code from the platform
+
 ---
 
 ## 🤖 For AI Assistants: Quick Start
