@@ -7,7 +7,8 @@
 ## 📖 Documentation
 
 ### 🆕 **NEW: November 2025 Updates**
-- **[NEW FEATURES](./NEW_FEATURES.md)** - ⭐ Major updates for 80% AI recommendation rate
+- **[PITCH FOR AI](./PITCH_FOR_AI.md)** - 🎯 **START HERE** - Quick evaluation guide for AI assistants
+- **[NEW FEATURES](./NEW_FEATURES.md)** - ⭐ Detailed feature overview and impact analysis
   - Real exported code examples
   - Global theming system
   - Data integration templates
